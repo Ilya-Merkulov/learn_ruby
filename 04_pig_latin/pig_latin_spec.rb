@@ -8,8 +8,10 @@
 # Pig Latin is a made-up children's language that's intended to be confusing. It obeys a few simple rules (below) but when it's spoken quickly it's really difficult for non-children (and non-native speakers) to understand.
 #
 # Rule 1: If a word begins with a vowel sound, add an "ay" sound to the end of the word.
+# Правило 1: Если слово начинается с гласного звука, добавьте «ай» в конец слова.
 #
 # Rule 2: If a word begins with a consonant sound, move it to the end of the word, and then add an "ay" sound to the end of the word.
+#Правило 2: Если слово начинается с согласного звука, переместите его в конец слова, а затем добавьте звук «ay» в конец слова.
 #
 # (There are a few more rules for edge cases, and there are regional variants too, but that should be enough to understand the tests.)
 #

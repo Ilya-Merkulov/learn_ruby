@@ -35,9 +35,9 @@ describe "Performance Monitor" do
     ## has been updated with Rspec 3.  The now form syntax is:
     # old:
     # Time.stub(:now).and_return( @eleven_am )
-    # new: 
+    # new:
     allow(Time).to receive(:now).and_return( @eleven_am)
-    
+
 
     elapsed_time = measure do
     end

@@ -4,9 +4,9 @@
 # * constructors
 # * class methods
 # * factory methods
-#   
+#
 # * [Options Hashes] ( http://stackoverflow.com/questions/1515577/factory-methods-in-ruby#1516824 )
-#   
+#
 #
 # # Hints
 #
